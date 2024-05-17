@@ -1,0 +1,17 @@
+{
+  "name": "wxssfix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "formatwxss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baicaisir/wxssfix.git"
+  },
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^22.9.0"
+  }
+}
